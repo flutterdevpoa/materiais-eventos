@@ -14,6 +14,6 @@ Nesse repositório você encontra todos os materiais apresentados, organizados p
 	* [Slides](https://github.com/flutterdevpoa/materiais-eventos/tree/master/evento-06-arquitetura-qa/flutter-testing-joao-rutkoski.pdf)
 	*  [Vídeo](https://www.youtube.com/watch?v=_uNIPCnuEgk)
 *  Arquitetura e estrutura do app Cíngulo - Ricardo Serro e Felipe Passos
-	* [Slides](https://github.com/flutterdevpoa/materiais-eventos/tree/master/evento-06-arquitetura-qa/FlutterRS-Cíngulo.pdf)
+	* [Slides](https://github.com/flutterdevpoa/materiais-eventos/blob/master/evento-06-arquitetura-qa/FlutterRS-C%C3%ADngulo.pdf)
 	* [GitHub](https://github.com/cingulo/flutter-sample)
 	* [GitHub](https://github.com/cingulo/api-sample)
